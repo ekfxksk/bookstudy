@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kyu.calculator.StringCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-01-24T16:03:05" hostname="DESKTOP-2QHCPDA" time="0.036">
+  <properties/>
+  <testcase name="add_쉼표콜론더하기()" classname="com.kyu.calculator.StringCalculatorTest" time="0.026"/>
+  <testcase name="add_음수오류처리()" classname="com.kyu.calculator.StringCalculatorTest" time="0.002"/>
+  <testcase name="add_커스텀구분자()" classname="com.kyu.calculator.StringCalculatorTest" time="0.001"/>
+  <testcase name="add_단일숫자()" classname="com.kyu.calculator.StringCalculatorTest" time="0.001"/>
+  <testcase name="add_널공백체크()" classname="com.kyu.calculator.StringCalculatorTest" time="0.001"/>
+  <testcase name="add_쉼표더하기()" classname="com.kyu.calculator.StringCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
